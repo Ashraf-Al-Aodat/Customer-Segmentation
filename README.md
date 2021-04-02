@@ -24,7 +24,7 @@ This project made use of the E-Commerce Data an actual transactions from UK reta
 ## The Model K-Means Clustering:
 The Model K-Means is a vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid), serving as a prototype of the cluster.
 
-## The result:
+## The Result:
 
 <img src="assets/cluster.png" raw="true" alt="Customers" />
 
