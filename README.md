@@ -1,4 +1,4 @@
-<img src="assets/segmentation.png" raw="true" alt=" Customer Segmentation"/>
+<img src="assets/segmentation.png" raw="true" alt="Customer Segmentation"/>
 
  
 # Customer-Segmentation
@@ -23,3 +23,11 @@ This project made use of the E-Commerce Data an actual transactions from UK reta
  
 ## The Model K-Means Clustering:
 The Model K-Means is a vector quantization, originally from signal processing, that aims to partition n observations into k clusters in which each observation belongs to the cluster with the nearest mean (cluster centers or cluster centroid), serving as a prototype of the cluster.
+
+## The result:
+
+<img src="assets/cluster.png" raw="true" alt="Customers" />
+
+cluster 0 is loyal/active customers
+cluster 1 is new customers
+cluster 2 is churned/old customers
