@@ -1,7 +1,7 @@
 <img src="assets/segmentation.png" raw="true" alt="Customer Segmentation"/>
 
  
-# Customer-Segmentation
+# Customer Segmentation
 A case study of a retailer to understand the behavior of customers.
 
 ## The Dataset:
