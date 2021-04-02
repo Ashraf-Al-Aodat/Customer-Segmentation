@@ -28,6 +28,6 @@ The Model K-Means is a vector quantization, originally from signal processing, t
 
 <img src="assets/cluster.png" raw="true" alt="Customers" />
 
-Cluster 0 is loyal/active customers.\n
-Cluster 1 is new customers.\n
+Cluster 0 is loyal/active customers.<br>
+Cluster 1 is new customers.<br>
 Cluster 2 is churned/old customers.
